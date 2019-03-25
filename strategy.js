@@ -1,4 +1,5 @@
 const CustomStrategy = require('passport-custom').Strategy;
+const rp = require('request-promise');
 
 async function delay() {
   return new Promise((resolve) => {
