@@ -1,0 +1,24 @@
+{
+  "name": "wg-api-strategy",
+  "version": "1.0.0",
+  "description": "Passport Strategy for authentication with help WG API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckyTeamX/wg-api-strategy.git"
+  },
+  "author": "Daler Akhmetov (nsdaler@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuckyTeamX/wg-api-strategy/issues"
+  },
+  "homepage": "https://github.com/LuckyTeamX/wg-api-strategy#readme",
+  "dependencies": {
+    "passport-custom": "^1.0.5",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
