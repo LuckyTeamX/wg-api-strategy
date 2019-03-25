@@ -1,6 +1,6 @@
 {
   "name": "wg-api-strategy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Passport Strategy for authentication with help WG API",
   "main": "index.js",
   "scripts": {
